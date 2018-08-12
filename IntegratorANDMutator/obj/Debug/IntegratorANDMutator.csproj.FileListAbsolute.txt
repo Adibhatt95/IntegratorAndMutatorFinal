@@ -1,0 +1,8 @@
+c:\users\aditya\source\repos\IntegratorANDMutator\IntegratorANDMutator\bin\Debug\IntegratorANDMutator.exe.config
+c:\users\aditya\source\repos\IntegratorANDMutator\IntegratorANDMutator\bin\Debug\IntegratorANDMutator.exe
+c:\users\aditya\source\repos\IntegratorANDMutator\IntegratorANDMutator\bin\Debug\IntegratorANDMutator.pdb
+c:\users\aditya\source\repos\IntegratorANDMutator\IntegratorANDMutator\bin\Debug\SabberStoneCore.dll
+c:\users\aditya\source\repos\IntegratorANDMutator\IntegratorANDMutator\obj\Debug\IntegratorANDMutator.csprojResolveAssemblyReference.cache
+c:\users\aditya\source\repos\IntegratorANDMutator\IntegratorANDMutator\obj\Debug\IntegratorANDMutator.csproj.CoreCompileInputs.cache
+c:\users\aditya\source\repos\IntegratorANDMutator\IntegratorANDMutator\obj\Debug\IntegratorANDMutator.exe
+c:\users\aditya\source\repos\IntegratorANDMutator\IntegratorANDMutator\obj\Debug\IntegratorANDMutator.pdb

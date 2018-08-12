@@ -1,0 +1,11 @@
+Deck:66* Evaluation:---9.52**
+Deck:61* Evaluation:---10.435**
+Deck:36* Evaluation:---12.115**
+Deck:37* Evaluation:---13.145**
+Deck:10* Evaluation:---13.33**
+Deck:17* Evaluation:---13.42**
+Deck:82* Evaluation:---14.235**
+Deck:71* Evaluation:---14.36**
+Deck:11* Evaluation:---14.74**
+Deck:94* Evaluation:---15.21**
+

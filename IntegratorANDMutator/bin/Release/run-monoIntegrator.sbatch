@@ -1,0 +1,493 @@
+Starting test setup. Warlock Deck v7.6251test: Parallel=Truein parallel 1x and in each parallel, no of tasks:1 and inner parallel:5 and each within inner parallel, inner tasks:10 times, different decks, get winrates and time avg of each and print max depth =13 , max width = 4
+Goldshire Footman
+Hunter's Mark
+Magma Rager
+Oasis Snapjaw
+River Crocolisk
+Frostwolf Grunt
+Raid Leader
+Wolfrider
+Ironfur Grizzly
+Silverback Patriarch
+Stormwind Knight
+Ironforge Rifleman
+Kobold Geomancer
+Gnomish Inventor
+Stormpike Commando
+Archmage
+Lord of the Arena
+Murloc Raider
+Stonetusk Boar
+Bloodfen Raptor
+Bluegill Warrior
+Sen'jin Shieldmasta
+Chillwind Yeti
+War Golem
+Booty Bay Bodyguard
+Elven Archer
+Razorfen Hunter
+Ogre Magi
+Boulderfist Ogre
+Core Hound
+Reckless Rocketeer
+Stormwind Champion
+Frostwolf Warlord
+Starving Buzzard
+Darkscale Healer
+Houndmaster
+Timber Wolf
+Tundra Rhino
+Multi-Shot
+Tracking
+Arcane Shot
+Voodoo Doctor
+Novice Engineer
+Shattered Sun Cleric
+Dragonling Mechanic
+Acidic Swamp Ooze
+Gurubashi Berserker
+Murloc Tidehunter
+Grimscale Oracle
+Kill Command
+Dalaran Mage
+Nightblade
+Animal Companion
+08-03-2018-17-16-33
+Count:30
+Count:30
+Count:30
+Count:30
+Count:30
+Count:30
+Count:30
+Count:30
+Count:30
+Count:30
+Count:30
+Count:30
+Count:30
+Count:30
+Count:30
+Count:30
+Count:30
+Count:30
+Count:30
+Count:30
+Count:30
+Count:30
+Count:30
+Count:30
+Count:30
+Count:30
+Count:30
+Count:30
+Count:30
+Count:30
+Count:30
+Count:30
+Count:30
+Count:30
+Count:30
+Count:30
+Count:30
+Count:30
+Count:30
+Count:30
+Count:30
+Count:30
+Count:30
+Count:30
+Count:30
+Count:30
+Count:30
+Count:30
+Count:30
+Count:30
+Count:30
+Count:30
+Count:30
+Count:30
+Count:30
+Count:30
+Count:30
+Count:30
+Count:30
+Count:30
+Count:30
+Count:30
+Count:30
+Count:30
+Count:30
+Count:30
+Count:30
+Count:30
+Count:30
+Count:30
+Count:30
+Count:30
+Count:30
+Count:30
+Count:30
+Count:30
+Count:30
+Count:30
+Count:30
+Count:30
+Count:30
+Count:30
+Count:30
+Count:30
+Count:30
+Count:30
+Count:30
+Count:30
+Count:30
+Count:30
+Count:30
+Count:30
+Count:30
+Count:30
+Count:30
+Count:30
+Count:30
+Count:30
+Count:30
+Count:30
+Count:30
+Count:30
+Count:30
+Count:30
+Count:30
+Count:30
+Count:30
+Count:30
+Count:30
+Count:30
+Count:30
+Count:30
+Count:30
+Count:30
+Count:30
+Count:30
+Count:30
+Count:30
+Count:30
+Count:30
+Count:30
+Count:30
+Count:30
+Count:30
+Count:30
+Count:30
+Count:30
+Count:30
+Count:30
+Count:30
+Count:30
+Count:30
+Count:30
+Count:30
+Count:30
+Count:30
+Count:30
+Count:30
+Count:30
+Count:30
+Count:30
+Count:30
+Count:30
+Count:30
+Count:30
+Count:30
+Count:30
+Count:30
+Count:30
+Count:30
+Count:30
+Count:30
+Count:30
+Count:30
+Count:30
+Count:30
+Count:30
+Count:30
+Count:30
+Count:30
+Count:30
+Count:30
+Count:30
+Count:30
+Count:30
+Count:30
+Count:30
+Count:30
+Count:30
+Count:30
+Count:30
+Count:30
+Count:30
+Count:30
+Count:30
+Count:30
+Count:30
+Count:30
+Count:30
+Count:30
+Count:30
+Count:30
+Count:30
+Count:30
+Count:30
+Count:30
+Count:30
+Count:30
+Count:30
+Count:30
+Count:30
+Count:30
+Count:30
+Count:30
+Count:30
+Count:30
+Count:30
+Count:30
+Count:30
+Count:30
+Count:30
+Count:30
+Count:30
+Count:30
+Count:30
+Count:30
+Count:30
+Count:30
+Count:30
+Count:30
+Count:30
+Count:30
+Count:30
+Count:30
+Count:30
+Count:30
+Count:30
+Count:30
+Count:30
+Count:30
+Count:30
+Count:30
+Count:30
+Count:30
+Count:30
+Count:30
+Count:30
+Count:30
+Count:30
+Count:30
+Count:30
+Count:30
+Count:30
+Count:30
+Count:30
+Count:30
+Count:30
+Count:30
+Count:30
+Count:30
+Count:30
+Count:30
+Count:30
+Count:30
+Count:30
+Count:30
+Count:30
+Count:30
+Count:30
+Count:30
+Count:30
+Count:30
+Count:30
+Count:30
+Count:30
+Count:30
+Count:30
+Count:30
+Count:30
+Count:30
+Count:30
+Count:30
+Count:30
+Count:30
+Count:30
+Count:30
+Count:30
+Count:30
+Count:30
+Count:30
+Count:30
+Count:30
+Count:30
+Count:30
+Count:30
+Count:30
+Count:30
+Count:30
+Count:30
+Count:30
+Count:30
+Count:30
+Count:30
+Count:30
+Count:30
+Count:30
+Count:30
+Count:30
+Count:30
+Count:30
+Count:30
+Count:30
+Count:30
+Count:30
+Count:30
+Count:30
+Count:30
+Count:30
+Count:30
+Count:30
+Count:30
+Count:30
+Count:30
+Count:30
+Count:30
+Count:30
+Count:30
+Count:30
+Count:30
+Count:30
+Count:30
+Count:30
+Count:30
+Count:30
+Count:30
+Count:30
+Count:30
+Count:30
+Count:30
+Count:30
+Count:30
+Count:30
+Count:30
+Count:30
+Count:30
+Count:30
+Count:30
+Count:30
+Count:30
+Count:30
+Count:30
+Count:30
+Count:30
+Count:30
+Count:30
+Count:30
+Count:30
+Count:30
+Count:30
+Count:30
+Count:30
+Count:30
+Count:30
+Count:30
+Count:30
+Count:30
+Count:30
+Count:30
+Count:30
+Count:30
+Count:30
+Count:30
+Count:30
+Count:30
+Count:30
+Count:30
+Count:30
+Count:30
+Count:30
+Count:30
+Count:30
+Count:30
+Count:30
+Count:30
+Count:30
+Count:30
+Count:30
+Count:30
+Count:30
+Count:30
+Count:30
+Count:30
+Count:30
+Count:30
+Count:30
+Count:30
+Count:30
+Count:30
+Count:30
+Count:30
+Count:30
+Count:30
+Count:30
+Count:30
+Count:30
+Count:30
+Count:30
+Count:30
+Count:30
+Count:30
+Count:30
+Count:30
+Count:30
+Count:30
+Count:30
+Count:30
+Count:30
+Count:30
+Count:30
+Count:30
+Count:30
+Count:30
+Count:30
+Count:30
+Count:30
+Count:30
+Count:30
+Count:30
+Count:30
+Count:30
+Count:30
+Count:30
+Count:30
+Count:30
+Count:30
+Count:30
+Count:30
+Count:30
+Count:30
+Count:30
+Count:30
+Count:30
+Count:30
+Count:30
+Count:30
+Count:30
+Count:30
+Count:30
+Count:30
+Count:30
+Count:30
+Count:30
+Count:30
+Count:30
+Count:30
+Count:30
+Count:30
+Count:30

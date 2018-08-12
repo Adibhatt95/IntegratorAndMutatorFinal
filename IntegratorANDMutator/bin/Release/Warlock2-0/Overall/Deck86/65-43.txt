@@ -1,0 +1,3 @@
+Ironfur Grizzly*Gul'dan*Murloc Raider*Kobold Geomancer*Stormwind Champion*Lightwarden*Scarlet Crusader*Nozdormu*Nozdormu*Mana Addict*Twilight Drake*Master Swordsmith*Novice Engineer*Bane of Doom*Nightblade*Gurubashi Berserker*Bluegill Warrior*Magma Rager*Gadgetzan Auctioneer*Secretkeeper*Doomsayer*Sacrificial Pact*Ironbeak Owl*Succubus*Booty Bay Bodyguard*Lord Jaraxxus*Dark Iron Dwarf*Soulfire*Doomguard*Dread Corsair*
+GPUID:65-43 Game Deck:86: start player=RehHausZuckFuchs, Game: {game.State}, Player1: LOST / Player2:WONhealthdiff:-4& turns:17 and average time of game (hh:mm:ss) = 00:00:01Time taken:00:00:01
+[Secretkeeper]*1**[The Coin]*1**[Dread Corsair]*1**[Dark Iron Dwarf]*1**[Doomguard]*1**[Ironfur Grizzly]*1**[Doomsayer]*1**[Soulfire]*1**/n
